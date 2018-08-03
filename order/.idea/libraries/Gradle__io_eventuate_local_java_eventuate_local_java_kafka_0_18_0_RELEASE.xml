@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.local.java:eventuate-local-java-kafka:0.18.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.local.java/eventuate-local-java-kafka/0.18.0.RELEASE/549f597334180e5f7717159a2bf1e1bb26e73b8e/eventuate-local-java-kafka-0.18.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.local.java/eventuate-local-java-kafka/0.18.0.RELEASE/98faa0ea3bff895ce81e6267a96b46fba26fbe7f/eventuate-local-java-kafka-0.18.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

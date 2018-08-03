@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.tram.core:eventuate-tram-producer-jdbc:0.7.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-producer-jdbc/0.7.0.RELEASE/c7f630605d913f9d45d3768a4692cd955121dfd/eventuate-tram-producer-jdbc-0.7.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-producer-jdbc/0.7.0.RELEASE/d79a0883c5d80a9c57faeafda2d08ab89f73af90/eventuate-tram-producer-jdbc-0.7.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

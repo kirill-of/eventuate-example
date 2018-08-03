@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-806726508/eventuate-example.iml" filepath="$PROJECT_DIR$/.idea/modules/-806726508/eventuate-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order.iml" filepath="$PROJECT_DIR$/order.iml" group="order" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order_main.iml" filepath="$PROJECT_DIR$/.idea/modules/order_main.iml" group="order" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order_test.iml" filepath="$PROJECT_DIR$/.idea/modules/order_test.iml" group="order" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1044402108/public.iml" filepath="$PROJECT_DIR$/.idea/modules/-1044402108/public.iml" group="public" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1044402108/public_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1044402108/public_main.iml" group="public" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1044402108/public_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1044402108/public_test.iml" group="public" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/warehouse.iml" filepath="$PROJECT_DIR$/.idea/modules/warehouse.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.tram.core:eventuate-tram-messaging:0.7.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-messaging/0.7.0.RELEASE/820c602391e714e7451526d8b0e45a543b33d7e5/eventuate-tram-messaging-0.7.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-messaging/0.7.0.RELEASE/9715646eea62d5852b9ec73a1fe2c0eedf254f92/eventuate-tram-messaging-0.7.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

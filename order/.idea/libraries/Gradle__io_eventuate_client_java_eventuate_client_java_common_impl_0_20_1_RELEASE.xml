@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.client.java:eventuate-client-java-common-impl:0.20.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.client.java/eventuate-client-java-common-impl/0.20.1.RELEASE/b3b3b73ebef6ef7a196f690fb7b117b89c3edb65/eventuate-client-java-common-impl-0.20.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.client.java/eventuate-client-java-common-impl/0.20.1.RELEASE/cf2644b432573fd72475b54ea64f61f5f87c34b2/eventuate-client-java-common-impl-0.20.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

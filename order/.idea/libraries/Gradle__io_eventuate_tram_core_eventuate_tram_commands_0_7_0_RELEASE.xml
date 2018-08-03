@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.tram.core:eventuate-tram-commands:0.7.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-commands/0.7.0.RELEASE/3af0ebb3acb702a3fe2b1a828cd3e10a62dc9b16/eventuate-tram-commands-0.7.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-commands/0.7.0.RELEASE/170bc83e9ec6381c15c6c6dd393c74e877f49266/eventuate-tram-commands-0.7.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

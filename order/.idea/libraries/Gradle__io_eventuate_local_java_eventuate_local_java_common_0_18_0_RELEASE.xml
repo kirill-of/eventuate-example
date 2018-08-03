@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.local.java:eventuate-local-java-common:0.18.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.local.java/eventuate-local-java-common/0.18.0.RELEASE/c70b096094118da181fb0878ee323ea895b6b6c3/eventuate-local-java-common-0.18.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.local.java/eventuate-local-java-common/0.18.0.RELEASE/283a3c696c36ed1b34ac103decfd8adf4ec28da3/eventuate-local-java-common-0.18.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

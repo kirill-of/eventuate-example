@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.tram.core:eventuate-tram-in-memory:0.7.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-in-memory/0.7.0.RELEASE/be881ac58e6df48c37b8da77c09ec8ca4caaeb34/eventuate-tram-in-memory-0.7.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-in-memory/0.7.0.RELEASE/1cb46999c73f8479cc38681e950b8be3de314d96/eventuate-tram-in-memory-0.7.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

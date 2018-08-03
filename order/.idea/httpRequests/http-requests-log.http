@@ -1,0 +1,116 @@
+GET http://localhost:8050/order/info
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T065330.200.txt
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T064548.415.json
+
+###
+
+GET http://localhost:8050/order/info
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T064503.200.txt
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T064436.415.json
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T060548-1.415.json
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T060548.415.json
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T060547.415.json
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T060546.415.json
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T060503.415.json
+
+###
+
+POST http://localhost:8050/order/create
+Accept: */*
+Cache-Control: no-cache
+
+fghdfgh
+
+<> 2018-07-30T060442.415.json
+
+###
+
+GET http://localhost:8050/order/info
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-30T060359.200.txt
+
+###
+
+GET http://localhost:8050/info
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-07-30T060341.404.json
+
+###
+

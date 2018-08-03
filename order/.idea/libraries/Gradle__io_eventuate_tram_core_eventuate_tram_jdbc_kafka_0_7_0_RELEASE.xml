@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.tram.core:eventuate-tram-jdbc-kafka:0.7.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-jdbc-kafka/0.7.0.RELEASE/37284c99c66d8a4b9e73f6d48b6de46f76dc4816/eventuate-tram-jdbc-kafka-0.7.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-jdbc-kafka/0.7.0.RELEASE/fcf3372bfca4e9970f3afd43edd74161f8ec0d7b/eventuate-tram-jdbc-kafka-0.7.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.eventuate.tram.core:eventuate-tram-consumer-kafka:0.7.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-consumer-kafka/0.7.0.RELEASE/be47822a7061a690adfff6dd50c3ed0364ae908a/eventuate-tram-consumer-kafka-0.7.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.eventuate.tram.core/eventuate-tram-consumer-kafka/0.7.0.RELEASE/e4ada8dcfc35ece85b4d470ad35c6be4647c628c/eventuate-tram-consumer-kafka-0.7.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
